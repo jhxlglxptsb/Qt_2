@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/win.wav</file>
+        <file>res/lose.wav</file>
+        <file>res/zhadan.jpg</file>
+    </qresource>
+</RCC>
